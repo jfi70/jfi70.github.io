@@ -32,9 +32,9 @@ github_username:  jfi70
 
 # Build settings
 header_pages:
-  - about.md
-  - portfolio.md
-
+  - about.markdown
+  - portfolio.markdown
+  
 #theme: jekyll-theme-slate
 theme: minima
 #remote_theme: pages-themes/midnight@v0.2.0
