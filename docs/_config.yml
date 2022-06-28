@@ -54,3 +54,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+gem "github-pages", group: :jekyll_plugins
