@@ -31,6 +31,7 @@ twitter_username: kgb70
 github_username:  jfi70
 
 # Build settings
+
 theme: jekyll-theme-slate
 #theme: minima
 #remote_theme: pages-themes/midnight@v0.2.0
@@ -59,3 +60,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 gem "github-pages", group: :jekyll_plugins
+
