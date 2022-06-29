@@ -1,11 +1,10 @@
 ---
 layout: page
-
-![Rhein-Kilometer 512]( /assets/rhine-512.png )
-
 title: Über die App
 permalink: /about/
 ---
+
+![Rhein-Kilometer 512]( /assets/rhine-512.png )
  
  KM44 ist eine Anwendung die Dir hilft dich an und auf Deutschlands Bundeswasserstraßen zurechtzufinden. Wenn  Du Binnenschiffer, Wassersportler, Angler oder Wanderer am Ufer eines größeren Flusses bist, kennst du sich die großen Schilder mit den Flußkilometerangaben. Sie sind in der Regel vom Fluß aus gut zu erkennen und dienen allen die auf dem Fluß unterwegs sind, zur Orientierung und Navigation. Aber was machst Du, wenn ein Schild zugewachsen, beschädigt oder aus anderen Gründen nicht vorhanden ist? Oder Du bist einfach zu weit weg vom nächsten Schild und hast es versäumt auf die vorhergehenden zu achten? Oder Du bist am Ufer an Land unterwegs oder die Sicht ist bei Nacht und Nebel einfach zu schlecht?
 
