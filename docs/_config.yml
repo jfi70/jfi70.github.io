@@ -33,7 +33,7 @@ github_username:  jfi70
 # Build settings
 header_pages:
   - about.markdown
-  - portfolio.markdown
+  - documentation.markdown
   - privacy.markdown
   
 #theme: jekyll-theme-slate
