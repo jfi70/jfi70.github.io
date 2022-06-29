@@ -8,5 +8,5 @@ permalink: /about/
 
  In diesen Fällen kann die KM44 App Dir bei der Orientierung helfen. Mit Hilfe des GPS-Empfängers deines Smartphones berechnet Dir die Anwendung Deine genaue Position im Netz der Bundeswasserstraßen und zeigt Sie dir auf dem Display an. Und für den Fall das Du - aus welchen Gründen auch immer - völlig die Orientierung verloren hast, teilt die App dir sogar mit auf welchem Fluß oder Kanal Du dich befindest.
 
- ![Rhein-Kilometer 512](/assets/rhine-512.jpg)
+ ![Rhein-Kilometer 512](assets/rhine-512.jpg)
 
