@@ -34,15 +34,15 @@ github_username:  jfi70
 # Build settings
 header_pages:
   - about.markdown
-  - documentation.markdown
+# - documentation.markdown
   - privacy.markdown
   
 #theme: jekyll-theme-slate
 theme: minima
-#remote_theme: pages-themes/midnight@v0.2.0
+# remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme 
+#  - jekyll-remote-theme 
 
 
 # Exclude from processing.
