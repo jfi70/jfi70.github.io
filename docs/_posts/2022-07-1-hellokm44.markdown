@@ -10,6 +10,4 @@ Für die Umsetzung dieses Projekts musste ich zweimal ziemlich couragiert sein:
 * unmittelbar vor dem Anfang und
 * dann bei der Übermittlung in den App-Store.
 
-Aber letztendlich habe ich beide mentale Hürden überwunden:
-
-[KM44](https://apple.co/3RezYIi)
+Aber letztendlich habe ich beide mentale Hürden überwunden und man kann das Ergebnis hier herunterladen: [KM44](https://apple.co/3RezYIi)
