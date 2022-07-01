@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  Deutschlands Bundeswasserstraßen
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jfi70.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: karlgabel70
+twitter_username: JanFiegert
 github_username:  jfi70
 
 # Build settings
